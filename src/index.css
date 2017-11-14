@@ -4,6 +4,10 @@ body {
   font-family: sans-serif;
 }
 
+#btn-marcar {
+  margin-top: 15px;
+}
+
 #placar {
   padding-top: 15px;
 }
